@@ -1,5 +1,3 @@
 require "lib_parser/version"
 
-module LibParser
-  # Your code goes here...
-end
+require 'lib_parser/file'
